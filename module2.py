@@ -10,6 +10,3 @@ def circle_circum():
     r = input("From the middle of the circle to any point on the boundary, please provide the radius.")
     C = 2*p*int(r)
     print (C)
-
-sqft_house()
-circle_circum()
